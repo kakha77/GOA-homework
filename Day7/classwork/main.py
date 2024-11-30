@@ -7,4 +7,4 @@ sityva2 = input("enter word 2")
 print(sityva1 + sityva2)
 
 #input-ინფორმაცია როდესაც შეგვაქვს
-#output-როდესაც შედეგს ვიღებთს
+#output-როდესაც შედეგს ვიღებთ
